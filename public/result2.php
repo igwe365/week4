@@ -9,7 +9,7 @@
             $result = '<'.$tag.'>'.$text.'</'.$tag.'>';
             return $result;
         }
-        // jaminl
+        
     } 
     echo html('p', 'Paragraph 1', 'red');
 ?>
